@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="Frame" style="height: 200px; width: 422px; font-size: 40px;">
+        <ui:Button text="Change Camera" display-tooltip-when-elided="true" name="Button" style="height: 199px; font-size: 50px; width: 408px;" />
+    </ui:VisualElement>
+</ui:UXML>
