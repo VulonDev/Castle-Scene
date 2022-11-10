@@ -23,3 +23,12 @@ Bush 2 - Found it
 Grey rock - Found it
 Black rock - Found it
 Red rock - Found it
+
+
+ASSIGNMENT 2:
+Lighting included:
+Emissive Material - Torches
+Point Light - Torches
+Spot Light - Inside castle
+Directional Light - Sun/Outdoor lighting
+
